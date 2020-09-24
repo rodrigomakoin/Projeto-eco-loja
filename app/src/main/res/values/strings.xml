@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lojinha Eco</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="todo4">TODO</string>
+    <string name="walllpaper">walllpaper</string>
+    <string name="comprar">COMPRAR</string>
+    <string name="comprar2">COMPRAR</string>
+    <string name="comprar3">COMPRAR</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo1">TODO</string>
+</resources>
